@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+}
+
+.calculator {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.key {
+  flex-grow: 1;
+  width: 33%;
+  height: 100px;
+  background-color: gray;
+  border: 2px solid black;
+}
